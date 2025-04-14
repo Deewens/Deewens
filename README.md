@@ -1,7 +1,7 @@
 ### Hi there, I'm Adrien 👋
 
-Passionnate about programming, and since recently, video games development.  
-My GitHub profile is populated with some university and personal projects, the public repositories are the one I am the most proud.
+Passionate about programming and, since recently, video game development.  
+**I moved all of my projects from GitHub to GitLab, have a look : [https://gitlab.com/users/Deewens/projects](https://gitlab.com/users/Deewens/projects).** Most of the projects on my GitHub are past projects, and their description is not up-to-date. If you want an up-to-date list of projects and descriptions, check my GitLab!
 
-- 👨‍🎓 I hold a two year **University Diploma of Technology in Computer Science** and a one year **Professional Degree and Apprenticeship in Computer Science** that I did in France.
+- 👨‍🎓 I hold a two year **University Diploma of Technology in Computer Science** and a one-year **Professional Degree and Apprenticeship in Computer Science** that I did in France.
 - 🌱 I’m currently a fourth year student in a **Bachelor of Science (Honours) in Computer Games Development** at the **South East Technological University** (SETU) in Ireland.
